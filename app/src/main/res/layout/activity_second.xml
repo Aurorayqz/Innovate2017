@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_background"
+    tools:context="innovate.topcoder.packagecom.innovate2017.SecondActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="15dp"
+        android:id="@+id/relativeLayout">
+
+        <WebView
+            android:id="@+id/web_view"
+            android:layout_width="344dp"
+            android:layout_height="350dp"
+            tools:layout_editor_absoluteY="0dp"
+            tools:layout_editor_absoluteX="8dp"
+            android:layout_marginBottom="15dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="20dp"
+        android:layout_height="18dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="22dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/home_icon"
+        />
+
+    <ImageView
+        android:id="@+id/image16"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/info_icon"
+        android:layout_alignTop="@+id/button2"
+        android:layout_alignRight="@+id/relativeLayout"
+        android:layout_alignEnd="@+id/relativeLayout"
+        android:layout_marginRight="5dp"/>
+
+
+
+
+</RelativeLayout>
