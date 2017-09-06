@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\wall.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\wall.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\hartz.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\hartz.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\cchang.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\cchang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bawany.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bawany.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\winding.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\winding.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\prichard.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\prichard.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\reine.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\reine.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_bump_normal_blue.9.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_bump_normal_blue.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\carroll.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\carroll.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\hudson.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\hudson.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\gupta.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\gupta.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_bump_pressed.9.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_bump_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\jamessenior.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\jamessenior.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\anash.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\anash.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menusocial.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menusocial.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\francisco.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\francisco.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bair.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bair.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\kramer.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\kramer.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\knieff.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\knieff.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x36_sisinni_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x36_sisinni_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\khare.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\khare.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\speckeen.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\speckeen.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\paulchen.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\paulchen.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x25_maler_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x25_maler_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\cheong.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\cheong.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\chiang.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\chiang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menuprogram.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menuprogram.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x39_vadhri_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x39_vadhri_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_background.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_background.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\schulte.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\schulte.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\razzaq.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\razzaq.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\mcderment.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\mcderment.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\das.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\das.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\kassaei.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\kassaei.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menuproduct.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menuproduct.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menukiosk.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menukiosk.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\mciver.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\mciver.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x21_khalil_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x21_khalil_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\cooper.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\cooper.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\holleran.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\holleran.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\murthy.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\murthy.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\fridman.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\fridman.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bezard.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bezard.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x18_jain_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x18_jain_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\holub.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\holub.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menufriends.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menufriends.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x20_kandula_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x20_kandula_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\schalk.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\schalk.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\patel_rekha.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\patel_rekha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_bump_normal_dark.9.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_bump_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\gorbunova.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\gorbunova.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bump_signal4.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bump_signal4.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\default_speaker.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\default_speaker.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\patel_amol.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\patel_amol.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\paralkar.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\paralkar.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\loftis.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\loftis.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\rao.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\rao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x22_khaw_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x22_khaw_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_icon.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\nash.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\nash.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\tanaka.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\tanaka.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x01_alavilli_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x01_alavilli_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\hanyuan.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\hanyuan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_badges.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_badges.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\gangadharan.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\gangadharan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\tan.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\tan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\leblanc.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\leblanc.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\amalraj.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\amalraj.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\samet.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\samet.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\vishalgurbuxani.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\vishalgurbuxani.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x12_griffin_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x12_griffin_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\mazzei.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\mazzei.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bailey.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bailey.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\stevejarvis.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\stevejarvis.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\christianreitz.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\christianreitz.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\sridharvembu.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\sridharvembu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bui.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bui.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\narain.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\narain.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\nemeth.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\nemeth.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\kanok.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\kanok.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\paul.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\paul.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menucheckin.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menucheckin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\schatt.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\schatt.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x30_regan_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x30_regan_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bump_close.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bump_close.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\karlmehta.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\karlmehta.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\kohli.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\kohli.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\woloshin.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\woloshin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\saboo.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\saboo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\yella.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\yella.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x03_babaria_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x03_babaria_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x14_haus_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x14_haus_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_bump_normal.9.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_bump_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\usmanabbasi.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\usmanabbasi.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bump_righthand.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bump_righthand.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\klimenko.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\klimenko.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\haynie.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\haynie.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bump_signal2.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bump_signal2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bump_signal1.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bump_signal1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\carter.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\carter.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bump_lefthand.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bump_lefthand.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\kellberg.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\kellberg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x35_sieber_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x35_sieber_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\chau.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\chau.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ivaskevicius.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\ivaskevicius.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\persky.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\persky.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\lynch.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\lynch.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\moayedpour.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\moayedpour.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bower.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bower.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x27_parington_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x27_parington_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\typaldos.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\typaldos.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\brooks.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\brooks.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_bump_normal_disable_focused.9.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_bump_normal_disable_focused.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x02_anwar_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x02_anwar_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bourbier.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bourbier.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\jessup.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\jessup.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\attaras.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\attaras.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menusponsors.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menusponsors.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\barrett.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\barrett.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\prince.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\prince.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menumap.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menumap.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\shah.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\shah.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\blonchek.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\blonchek.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\curren.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\curren.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\goldsmith.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\goldsmith.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menuparties.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menuparties.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_bump_normal_disable.9.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_bump_normal_disable.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menuspeakers.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menuspeakers.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\hoffman.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\hoffman.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bump_signal3.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bump_signal3.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ramani.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\ramani.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x26_nahari_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x26_nahari_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\cole.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\cole.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\khaw.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\khaw.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\collier.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\collier.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\stalder.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\stalder.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x11_garcia_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x11_garcia_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bump_nonetwork.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bump_nonetwork.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\frauendorfer.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\frauendorfer.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\parikh.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\parikh.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x28_patel_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x28_patel_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\al_bassam.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\al_bassam.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bump_close_selected.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bump_close_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_bump_selected.9.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_bump_selected.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\devconf.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\devconf.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\vittoriobertocci.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\vittoriobertocci.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\rubin.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\rubin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\info_icon.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\info_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_leaders.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_leaders.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\levitt_photo1.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\levitt_photo1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x33_rupe_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x33_rupe_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bump_white_low.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\bump_white_low.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\knapp.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\knapp.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x40_xue_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x40_xue_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x31_rice_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x31_rice_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\boonstra.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\boonstra.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\chang.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\chang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\erwa.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\erwa.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\x34_saxon_getty_r5.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\x34_saxon_getty_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menuhackathon.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menuhackathon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\khan.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\khan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\jones.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\jones.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\robertbirkenheuer.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\robertbirkenheuer.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_menugallery.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\home_menugallery.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\kato.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xxxhdpi\\kato.png"
+    }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurorayqz\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\AndroidProject\Innovate2017\app\build\intermediates\pre-dexed\debug\okio-1.9.0_00cacc742ae01cc1e2ac3533c5b252d75e58fa04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurorayqz\.android\build-cache\8d6adb454218f25850c62c5d9fc15cb186b3076a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\AndroidProject\Innovate2017\app\build\intermediates\pre-dexed\debug\classes_2c8cee3f29e04352cb51a6a034bf56983ed4e39a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\Innovate2017\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidProject\Innovate2017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f6f4c55511f34ff3b5f7b7860432acb42df38aa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurorayqz\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\AndroidProject\Innovate2017\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_a3da69c8a3251fd3419a4d41b6fb66632ab4e046.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProject\Innovate2017\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2bbb2d3939bc7cf4eaea71ccf226ef4376c1ffe0">
+        <dex dex="D:\AndroidProject\Innovate2017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2ac490667aad9ab1a969a1fcb077512490d581ee\classes.dex" />
+    </item>
+
+</items>
