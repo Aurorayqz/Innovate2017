@@ -37,13 +37,24 @@ public class Speaker implements Serializable {
      * </p>
      */
     private List<String> sessionIds;
-/**
+
+    public int getImageId() {
+        return imageId;
+    }
+
+    public void setImageId(int imageId) {
+        this.imageId = imageId;
+    }
+
+    /**
  * <p>
  * Simple getter for a namesake field.
  * </p>
  *
  * @return value of a namesake field.
  */
+    private int imageId;
+
     public String getName() {
         return name;
     }

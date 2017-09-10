@@ -1,4 +1,4 @@
-#Tue Sep 05 09:40:18 CST 2017
+#Sun Sep 10 17:21:37 CST 2017
 file.2=D\:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_995608b3182b2cc0b2b1dde225918d000e7af516\\classes.dex
 base.2=D\:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_995608b3182b2cc0b2b1dde225918d000e7af516
 file.1=D\:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_6ee45f2f8418cfb1537616a5ed280bdff96b3e99\\classes.dex

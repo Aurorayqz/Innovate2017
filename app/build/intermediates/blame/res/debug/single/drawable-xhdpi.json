@@ -1,11 +1,15 @@
 [
     {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\typaldos.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\typaldos.png"
+    },
+    {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\x11_garcia_r5.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\x11_garcia_r5.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\typaldos.png",
-        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\typaldos.png"
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\speakerdetails_background.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\speakerdetails_background.png"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\schulte.png",
@@ -88,12 +92,12 @@
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\mazzei.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_menusponsors.png",
-        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\home_menusponsors.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bump_signal1.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\bump_signal1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_menusponsors.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\home_menusponsors.png"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\x20_kandula_r5.png",
@@ -110,6 +114,10 @@
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\woloshin.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\woloshin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\schedule_arrow.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\schedule_arrow.png"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fridman.png",
@@ -220,12 +228,12 @@
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\collier.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_menuspeakers.png",
-        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\home_menuspeakers.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\goldsmith.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\goldsmith.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_menuspeakers.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\home_menuspeakers.png"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\default_speaker.png",
@@ -260,12 +268,12 @@
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\ivaskevicius.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_menuparties.png",
-        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\home_menuparties.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\carter.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\carter.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_menuparties.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\home_menuparties.png"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\kohli.png",
@@ -328,6 +336,10 @@
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\khaw.png"
     },
     {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\speakers_background.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\speakers_background.png"
+    },
+    {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\usmanabbasi.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\usmanabbasi.png"
     },
@@ -368,12 +380,12 @@
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\kramer.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_badges.png",
-        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\home_badges.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\knieff.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\knieff.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_badges.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\home_badges.png"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_menukiosk.png",
@@ -398,6 +410,10 @@
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\vittoriobertocci.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\vittoriobertocci.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\speakers_tempicon.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\speakers_tempicon.png"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\holub.png",
@@ -432,12 +448,12 @@
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\x25_maler_r5.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cooper.png",
-        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\cooper.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\x40_xue_r5.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\x40_xue_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cooper.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\cooper.png"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chiang.png",
@@ -498,6 +514,10 @@
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\x28_patel_r5.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\x28_patel_r5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\schedule_arrow_left.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\schedule_arrow_left.png"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_menuhackathon.png",
@@ -620,24 +640,24 @@
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\home_leaders.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\al_bassam.png",
-        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\al_bassam.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bump_signal2.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\bump_signal2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\al_bassam.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\al_bassam.png"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\saboo.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\saboo.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_menuproduct.png",
-        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\home_menuproduct.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\klimenko.png",
         "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\klimenko.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_menuproduct.png",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\drawable-xhdpi\\home_menuproduct.png"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hanyuan.png",

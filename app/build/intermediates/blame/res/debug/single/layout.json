@@ -48,6 +48,10 @@
         "source": "C:\\Users\\Aurorayqz\\.android\\build-cache\\57f2d13006fea0f3af9c793ddfef24990e1992d5\\output\\res\\layout\\notification_template_custom_big.xml"
     },
     {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_bg.xml",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\layout\\list_bg.xml"
+    },
+    {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Users\\Aurorayqz\\.android\\build-cache\\57f2d13006fea0f3af9c793ddfef24990e1992d5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
@@ -74,6 +78,10 @@
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\Aurorayqz\\.android\\build-cache\\57f2d13006fea0f3af9c793ddfef24990e1992d5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\layout\\activity_detail.xml"
     },
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
@@ -170,5 +178,9 @@
     {
         "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\Aurorayqz\\.android\\build-cache\\57f2d13006fea0f3af9c793ddfef24990e1992d5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Innovate2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\speak_item.xml",
+        "source": "D:\\AndroidProject\\Innovate2017\\app\\src\\main\\res\\layout\\speak_item.xml"
     }
 ]

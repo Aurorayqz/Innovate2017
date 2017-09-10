@@ -1,9 +1,14 @@
 package innovate.topcoder.packagecom.innovate2017;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.util.Log;
+import android.view.View;
+import android.widget.ImageView;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -13,10 +18,16 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
+import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
 
+import static android.R.id.list;
+
 public class SpeakerListActivity extends AppCompatActivity {
+
+    private List<Speaker> Speakers;
+    public List<newSpeaker> ShowSpeaker=new ArrayList<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,7 +35,34 @@ public class SpeakerListActivity extends AppCompatActivity {
         Log.i("TAG", "firstok11");
         setContentView(R.layout.activity_speaker_list);
         Log.i("TAG", "firstok");
-        List<Speaker> Speakers=retrieveAllSpeakers(this);
+        Speakers=retrieveAllSpeakers(this);
+        initSpeakers();
+
+        RecyclerView recyclerView=(RecyclerView)findViewById(R.id.recycle_view);
+        LinearLayoutManager layoutManager=new LinearLayoutManager(this);
+        recyclerView.setLayoutManager(layoutManager);
+        SpeakerTitleFragment.SpeakerAdapter adapter=new SpeakerTitleFragment().new SpeakerAdapter(ShowSpeaker);
+        recyclerView.setAdapter(adapter);
+
+        ImageView home_icon=(ImageView)findViewById(R.id.home_icon);
+        home_icon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent=new Intent();
+                intent.setClass(SpeakerListActivity.this,HomeActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        ImageView info_icon=(ImageView)findViewById(R.id.info_icon);
+        info_icon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent=new Intent();
+                intent.setClass(SpeakerListActivity.this,SecondActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
     private final static String TAG="Innovate.DataRetriever";
@@ -103,4 +141,41 @@ public class SpeakerListActivity extends AppCompatActivity {
         Log.i(TAG, "retrieve speakers");
         return speakerArrayList;
     }
+
+    //获取图片名称获取图片的资源id
+    public int getResourceByReflect(String imageName){
+        Class drawable  =  R.drawable.class;
+        Field field = null;
+        int r_id ;
+        try {
+            field = drawable.getField(imageName);
+            r_id = field.getInt(field.getName());
+          //  Log.d("TAG",r_id));
+        } catch (Exception e) {
+            r_id=R.drawable.default_speaker;
+            Log.e("TAG", "PICTURE NOT　FOUND！");
+        }
+        return r_id;
+    }
+
+
+
+    private void initSpeakers(){
+        for(Speaker speaker:Speakers)
+        {
+            //图片名字符串截取从19位到字符串总长位
+            String photoName;
+            photoName=speaker.getPicture().substring(19,speaker.getPicture().length()-4).toLowerCase();
+            if((photoName.charAt(0)>='0')&&(photoName.charAt(0)<='9'))
+            {
+                photoName="x"+photoName;
+            }
+            newSpeaker temSpeaker=new newSpeaker(speaker.getName(),speaker.getTitle(),speaker.getDetails(),
+                    getResourceByReflect(photoName));
+            Log.d("TAG",photoName);
+
+            ShowSpeaker.add(temSpeaker);
+        }
+    }
+
 }
